@@ -60,10 +60,13 @@ Interested in **VLSI • Design Verification • RTL/FPGA • Embedded Systems**
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-kohli-052798298/)
+<a href="https://www.linkedin.com/in/shrey-kohli-052798298/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreykohli.1313@gmail.com)
-
+<a href="mailto:shreykohli.1313@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+</a>
 ---
 
 ### ⚡ Hardware • Logic • Code • Systems
