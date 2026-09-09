@@ -25,7 +25,6 @@ Interested in **VLSI • Design Verification • RTL/FPGA • Embedded Systems**
 **RTL Design** • **Digital Logic** • **Computer Architecture** • **RISC-V** • **Functional Verification**
 
 ### ⚙️ Embedded Systems
-
 <p>
 <img src="./assets/icons/c.svg" width="68" height="68" alt="Embedded C">
 <img src="./assets/icons/arduino.svg" width="68" height="68" alt="Arduino IDE">
