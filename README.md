@@ -1,4 +1,4 @@
-                                    # Hi, I'm Shrey Kohli 👋
+# Hi, I'm Shrey Kohli 👋
 
 ### Electronics Engineering Graduate | Aspiring VLSI, Verification & Embedded Engineer
 
